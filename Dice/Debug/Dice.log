@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dice.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Dice.cpp
+C:\Users\Miles James\Code Projects\Dice\Dice.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dice.vcxproj -> C:\Users\Miles James\Code Projects\Dice\Debug\main.cpp.exe
