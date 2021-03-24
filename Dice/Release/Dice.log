@@ -1,0 +1,9 @@
+﻿  Dice.cpp
+C:\Users\Miles James\Code Projects\Dice\Dice.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating code
+  5 of 16 functions (31.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dice.vcxproj -> C:\Users\Miles James\Code Projects\Dice\Release\main.cpp.exe
